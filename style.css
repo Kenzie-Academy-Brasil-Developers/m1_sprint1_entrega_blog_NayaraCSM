@@ -84,13 +84,17 @@ form{
     Padding:50px 40px 50px 50px; 
     text-align: center;}
 
+    footer{
+        margin: 0 auto;
+        display:flex;
+    justify-content: space-around;
+        background-color: black;
+        color: rgb(255, 255, 255);
+    }
+
 /* footer */
 .containerfooter{
-    margin: 0 auto;
-    display:flex;
-justify-content: space-around;
-    background-color: black;
-    color: rgb(255, 255, 255);
+
     border-style: inset;
     border-width: 1px;
     Padding:20px 10px 20px 10px;}
